@@ -281,3 +281,8 @@ Real-Time News Platform
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0f172a,50:2563eb,100:38bdf8"/>
 
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/PRADHUMAN-SINGH-1/PRADHUMAN-SINGH-1/output/github-contribution-grid-snake-dark.svg" />
+</p>
