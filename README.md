@@ -21,42 +21,26 @@
 ```java
 public class PradhumanSingh {
 
-    String role = "Full Stack Developer";
+    private final String role = "Full Stack Developer";
+    private final String specialization = "Java Backend Development";
+    private final String currentProject = "BugHunter";
+    private final String currentlyLearning =
+            "Spring Boot • Microservices • Docker • System Design";
 
-    String[] languages = {
-        "Java",
-        "JavaScript",
-        "Python",
-        "C++",
-        "C"
-    };
+    private final List<String> techStack = List.of(
+            "Java",
+            "Spring Boot",
+            "React",
+            "Node.js",
+            "PostgreSQL",
+            "MongoDB"
+    );
 
-    String[] backend = {
-        "Spring Boot",
-        "Node.js",
-        "Express"
-    };
+    private final boolean openToCollaborate = true;
 
-    String[] frontend = {
-        "React",
-        "HTML",
-        "CSS",
-        "Bootstrap"
-    };
-
-    String[] databases = {
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL"
-    };
-
-    String[] interests = {
-        "Backend Development",
-        "AI Applications",
-        "Cyber Security",
-        "Cloud",
-        "System Design"
-    };
+    public void sayHi() {
+        System.out.println("Thanks for visiting my GitHub profile! 👋");
+    }
 }
 ```
 
@@ -66,13 +50,17 @@ public class PradhumanSingh {
 
 🌱 Learning
 
-- Advanced Spring Boot
-- Microservices
-- Docker
-- Kubernetes
-- System Design
-- Cloud Deployment
-- AI Integration
+<div align="center">
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+
+</div>
 
 ---
 
@@ -174,7 +162,7 @@ Real-Time News Platform
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=PRADHUMAN-SINGH-1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PRADHUMAN-SINGH-1&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=PRADHUMAN-SINGH-1&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -193,6 +181,21 @@ Real-Time News Platform
 [![Graph](https://github-readme-activity-graph.vercel.app/graph?username=PRADHUMAN-SINGH-1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PRADHUMAN-SINGH-1/PRADHUMAN-SINGH-1/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/PRADHUMAN-SINGH-1/PRADHUMAN-SINGH-1/output/github-contribution-grid-snake.svg">
+
+  <img alt="Contribution Snake"
+       src="https://raw.githubusercontent.com/PRADHUMAN-SINGH-1/PRADHUMAN-SINGH-1/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
 
 # 🏆 GitHub Trophies
 
@@ -281,8 +284,4 @@ Real-Time News Platform
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0f172a,50:2563eb,100:38bdf8"/>
 
 </div>
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/PRADHUMAN-SINGH-1/PRADHUMAN-SINGH-1/output/github-contribution-grid-snake-dark.svg" />
-</p>
