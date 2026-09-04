@@ -177,15 +177,6 @@ Real-Time News Platform
 </picture>
 </p>
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=PRADHUMAN-SINGH-1&theme=tokyonight&no-frame=true&margin-w=12&row=1)
-
-</div>
-
----
 
 # 🏅 Achievements
 
