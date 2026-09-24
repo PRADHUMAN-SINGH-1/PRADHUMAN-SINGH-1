@@ -88,79 +88,7 @@ public class PradhumanSingh {
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify,render"/>
 
-</div>
-
----
-
-# 🌟 Featured Projects
-
-## 🛡️ BugHunter
-
-> AI Powered Web Vulnerability Scanner
-
-### Highlights
-
-- AI Assisted Security Analysis
-- XSS Detection
-- Open Port Detection
-- Modern React Dashboard
-- Node.js Backend
-- Cloud Deployment
-- Interactive Reports
-
-🔗 Repository
-
-https://github.com/PRADHUMAN-SINGH-1/BugHunter
-
-🌍 Live Demo
-
-https://bug-hunter-silk.vercel.app/
-
----
-
-## 🏙 NeighborhoodFit
-
-Lifestyle Recommendation Platform
-
-✔ 750+ Bengaluru Locations
-
-✔ Recommendation Engine
-
-✔ Interactive Maps
-
-✔ REST APIs
-
-✔ Smart Filtering
-
----
-
-## 🔐 Secure Task Management
-
-Spring Boot REST API
-
-- JWT Authentication
-- Spring Security
-- RBAC
-- PostgreSQL
-
----
-
-## 📰 News Hunger
-
-Real-Time News Platform
-
-- React
-- Node.js
-- REST APIs
-- Responsive UI
-
-
-
-# 📈 Contribution Graph
-
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=PRADHUMAN-SINGH-1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
+ 
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -219,7 +147,7 @@ Real-Time News Platform
       NeighborhoodFit
 
 2026  ███████████████████████████████████████████
-      BugHunter
+      BugHunter,Paradox,H1 Bounty hunt
       AI Applications
       Spring Boot
 ```
